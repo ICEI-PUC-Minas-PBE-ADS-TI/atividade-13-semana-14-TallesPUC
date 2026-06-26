@@ -14,5 +14,80 @@
       "nome": "Usuario Comum",
       "email": "user@abc.com"
     }
-  ]
+  ],
+  "receitas": [
+    {
+      "idMeal": "53254",
+      "nome": "Ezme",
+      "categoria": "Vegetarian",
+      "instrucoes": "step 1\r\nPut the tomatoes and all of the peppers in a food processor and blitz until finely chopped. Tip out into a sieve, set over a bowl and leave to strain. Add the onions, garlic and parsley to the food processor and blitz until finely chopped, then set aside.\r\n\r\nstep 2\r\nAdd red pepper paste, tomato purée, pomegranate molasses, pul biber, sumac, dried mint and most of the extra virgin olive oil to a serving bowl and whisk well so everything comes together as a sauce. Tip in the blitzed onion mixture and the strained pepper mixture along with 1 tsp flaky sea salt . Stir well, then drizzle with the remaining extra virgin olive oil to serve.",
+      "imagem": "https://www.themealdb.com/images/media/meals/pb6mj11763788331.jpg",
+      "id": "nCtHj3PaZp4"
+    },
+    {
+      "idMeal": "53220",
+      "nome": "kabse",
+      "categoria": "Chicken",
+      "instrucoes": "1\r\nCaramelize the chicken with olive oil then add a maggi cube and boil it for around 30 minutes.\r\n2\r\nIn another pot, add all the veggies and caramelize them till they are soft.\r\n3\r\nOnce everything is done, add the rice, raisins & spices to the veggies and add 2 and a half cups of water for the rice to cook.\r\n4\r\nOnce the rice is done put everything in the oven.",
+      "imagem": "https://www.themealdb.com/images/media/meals/utqnjv1763598650.jpg",
+      "id": "x0wdIon8UQo"
+    },
+    {
+      "idMeal": "53065",
+      "nome": "Sushi",
+      "categoria": "Seafood",
+      "instrucoes": "STEP 1\r\nTO MAKE SUSHI ROLLS: Pat out some rice. Lay a nori sheet on the mat, shiny-side down. Dip your hands in the vinegared water, then pat handfuls of rice on top in a 1cm thick layer, leaving the furthest edge from you clear.\r\n\r\nSTEP 2\r\nSpread over some Japanese mayonnaise. Use a spoon to spread out a thin layer of mayonnaise down the middle of the rice.\r\n\r\nSTEP 3\r\nAdd the filling. Get your child to top the mayonnaise with a line of their favourite fillings – here we’ve used tuna and cucumber.\r\n\r\nSTEP 4\r\nRoll it up. Lift the edge of the mat over the rice, applying a little pressure to keep everything in a tight roll.\r\n\r\nSTEP 5\r\nStick down the sides like a stamp. When you get to the edge without any rice, brush with a little water and continue to roll into a tight roll.\r\n\r\nSTEP 6\r\nWrap in cling film. Remove the mat and roll tightly in cling film before a grown-up cuts the sushi into thick slices, then unravel the cling film.\r\n\r\nSTEP 7\r\nTO MAKE PRESSED SUSHI: Layer over some smoked salmon. Line a loaf tin with cling film, then place a thin layer of smoked salmon inside on top of the cling film.\r\n\r\nSTEP 8\r\nCover with rice and press down. Press about 3cm of rice over the fish, fold the cling film over and press down as much as you can, using another tin if you have one.\r\n\r\nSTEP 9\r\nTip it out like a sandcastle. Turn block of sushi onto a chopping board. Get a grown-up to cut into fingers, then remove the cling film.\r\n\r\nSTEP 10\r\nTO MAKE SUSHI BALLS: Choose your topping. Get a small square of cling film and place a topping, like half a prawn or a small piece of smoked salmon, on it. Use damp hands to roll walnut-sized balls of rice and place on the topping.\r\n\r\nSTEP 11\r\nMake into tight balls. Bring the corners of the cling film together and tighten into balls by twisting it up, then unwrap and serve.",
+      "imagem": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg",
+      "id": "F4gvKDLVscQ"
+    },
+    {
+      "idMeal": "53443",
+      "nome": "Satee",
+      "categoria": "Beef",
+      "instrucoes": "To make the marinade for the satee put in the container of an electric blender:\r\n\r\n1 large onion, coarsely chopped 2 cloves of garlic\r\nJuice of 2 lemons\r\n2Tbs. of sugar 1 cup of soy sauce\r\n1 tsp. salt 1 tsp. ground coriander for beef (or chicken) or 1 tsp. ground ginger for pork\r\n1 cup of oil\r\nBlend thoroughly and pour over:\r\n5 lbs. of beef or pork tenderloin, cubed\r\nDO NOT marinate overnight, but only for a few hours.\r\n\r\nPlace the meat on: 36 skewers\r\n\r\nBlend well:\r\n\r\n1 cup of oil\r\n2 Tbs. Soy sauce\r\nPour into a large shallow dish.\r\n\r\nTo keep meat from becoming dry, roll each skewer in seasoned oil before frying.\r\n\r\nSatee is also excellent when barbecued.",
+      "imagem": "https://www.themealdb.com/images/media/meals/dqxtlh1780153831.jpg",
+      "id": "NG2yCKFKfbQ"
+    },
+    {
+      "idMeal": "53086",
+      "nome": "Migas",
+      "categoria": "Miscellaneous",
+      "instrucoes": "Crumble the bread into small pieces. Sprinkle with cold water, cover with a damp cloth and leave for 30 minutes.\r\nHeat 2 tsp of olive oil in a deep pan. Add the garlic cloves separated, skins on; just make a small cut with a knife to open them and keep frying for 5 minutes. Set the garlic aside.\r\nIn the same oil, where we fried everything, simmer the bread, stirring constantly for 15 minutes and add a grinding of black pepper.\r\nAdd the garlic, continue stirring for about 20 minutes. It will be ready when the bread is soft and golden.",
+      "imagem": "https://www.themealdb.com/images/media/meals/xd9aj21740432378.jpg",
+      "id": "FvmbSqcRtiA"
+    },
+    {
+      "idMeal": "53189",
+      "nome": "Zemiakové Placky",
+      "categoria": "Side",
+      "instrucoes": "1. Prepare the Potatoes\r\nStart by peeling and finely grating the potatoes. To ensure extra crispiness, use a clean kitchen towel to squeeze out as much moisture as possible.\r\n\r\n2. Mix the Ingredients\r\nIn a large mixing bowl, combine the grated potatoes, chopped onion, minced garlic, eggs, flour, marjoram, salt, and black pepper. Stir well until the mixture forms a thick, consistent batter.\r\n\r\n3. Heat the Oil\r\nIn a large frying pan, heat a generous amount of oil over medium heat. The oil should be hot but not smoking.\r\n\r\n4. Fry the Pancakes\r\nSpoon portions of the batter into the pan, flattening each into a thin pancake. Fry until golden brown and crispy on one side, then flip and cook the other side until equally golden and crispy.\r\n\r\n5. Drain & Serve\r\nTransfer the cooked pancakes onto a plate lined with paper towels to remove excess oil. Serve immediately while hot, with sour cream, garlic dip, or as a side dish.",
+      "imagem": "https://www.themealdb.com/images/media/meals/0umm891763364625.jpg",
+      "id": "JlmiVSJAOFU"
+    },
+    {
+      "idMeal": "53254",
+      "nome": "Ezme",
+      "categoria": "Vegetarian",
+      "instrucoes": "step 1\r\nPut the tomatoes and all of the peppers in a food processor and blitz until finely chopped. Tip out into a sieve, set over a bowl and leave to strain. Add the onions, garlic and parsley to the food processor and blitz until finely chopped, then set aside.\r\n\r\nstep 2\r\nAdd red pepper paste, tomato purée, pomegranate molasses, pul biber, sumac, dried mint and most of the extra virgin olive oil to a serving bowl and whisk well so everything comes together as a sauce. Tip in the blitzed onion mixture and the strained pepper mixture along with 1 tsp flaky sea salt . Stir well, then drizzle with the remaining extra virgin olive oil to serve.",
+      "imagem": "https://www.themealdb.com/images/media/meals/pb6mj11763788331.jpg",
+      "id": "Xdx3C8ZsUIc"
+    },
+    {
+      "idMeal": "53443",
+      "nome": "Satee",
+      "categoria": "Beef",
+      "instrucoes": "To make the marinade for the satee put in the container of an electric blender:\r\n\r\n1 large onion, coarsely chopped 2 cloves of garlic\r\nJuice of 2 lemons\r\n2Tbs. of sugar 1 cup of soy sauce\r\n1 tsp. salt 1 tsp. ground coriander for beef (or chicken) or 1 tsp. ground ginger for pork\r\n1 cup of oil\r\nBlend thoroughly and pour over:\r\n5 lbs. of beef or pork tenderloin, cubed\r\nDO NOT marinate overnight, but only for a few hours.\r\n\r\nPlace the meat on: 36 skewers\r\n\r\nBlend well:\r\n\r\n1 cup of oil\r\n2 Tbs. Soy sauce\r\nPour into a large shallow dish.\r\n\r\nTo keep meat from becoming dry, roll each skewer in seasoned oil before frying.\r\n\r\nSatee is also excellent when barbecued.",
+      "imagem": "https://www.themealdb.com/images/media/meals/dqxtlh1780153831.jpg",
+      "id": "79qco9E"
+    },
+    {
+      "idMeal": "53133",
+      "nome": "Asado",
+      "categoria": "Beef",
+      "instrucoes": "Prepare the Fire: Start a wood fire in your grill and let it burn down to coals.\r\nSeason the Meat: Generously salt the beef cuts.\r\nGrill the Meat: Place the beef on the grill, starting with the thickest cuts farthest from the coals. Add chorizo and morcilla after the beef has been cooking for a while.\r\nCook to Perfection: Cook the meat, turning occasionally, until it reaches your desired doneness. Typically, ribs may take up to 2 hours; thinner cuts will cook faster.\r\nRest and Serve: Let the meat rest for about 10 minutes before slicing. Serve with chimichurri sauce and grilled vegetables.\r\nPro Tips:\r\n\r\nUse a mix of wood and charcoal for a consistent heat source. Wood adds flavor, while charcoal maintains temperature.\r\nSeason the meat just before grilling to ensure it retains its moisture and flavor.\r\nServing Suggestions:\r\n\r\nServe with a side of chimichurri sauce, a fresh tomato salad, and crusty bread. Pair with a robust Malbec wine to complement the rich flavors of the meat.",
+      "imagem": "https://www.themealdb.com/images/media/meals/kgfh3q1763075438.jpg",
+      "id": "XvY_Yog"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard de Receitas</title>
+
+    <link rel="stylesheet" href="/public/assets/css/styles.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+</head>
+<body>
+
+    <div class="Titulodashboard">
+        <h1>Painel de Receitas</h1>
+    </div>
+
+    <a href="index.html">Voltar</a>
+
+    <section class="dashboard-card">
+    <h2>Receitas salvas por categoria</h2>
+    <p>Distribuição das receitas salvas por categoria culinária.</p>
+
+    <div class="dashboard-layout">
+        <div class="grafico-area">
+            <canvas id="graficoCategorias"></canvas>
+        </div>
+
+        <div class="tabela-area">
+            <h3>Categorias</h3>
+            <div id="listaCategorias"></div>
+        </div>
+    </div>
+</section>
+
+    <script src="/public/assets/scripts/dashboard.js"></script>
+
+</body>
+</html>
